@@ -9,7 +9,7 @@
 |Will print a range of numbers from 0 to the input|4|0, 1, 2, 3, 4|
 |Numbers divisible by 3 become "ping"|3|"ping"
 |Numbers divisible by 5 become "pong"|5|"pong"
-|Numbers divisible by 15 become "pingpong"|15|"pingpong"
+|Numbers divisible by 3 **and** 5 become "pingpong"|15|"pingpong"
 
 
 
